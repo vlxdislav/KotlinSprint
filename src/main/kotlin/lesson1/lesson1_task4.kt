@@ -1,3 +1,5 @@
+package lesson1
+
 fun main() {
 
     var length : Long = 40_868_600_000
